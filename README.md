@@ -33,11 +33,11 @@ After preparing the data and transforming it for ready to machine learning. Spli
 - precision: 1
 - recall scores: 0.91
 - Top 5 important features: 
-(0.08969665458209104, 'total_rec_prncp')
- (0.06436823464037578, 'total_rec_int')
- (0.06362653031376969, 'total_pymnt_inv')
- (0.053061501841593216, 'last_pymnt_amnt')
- (0.05184437542411125, 'total_pymnt')
+   - (0.08969665458209104, 'total_rec_prncp')
+   - (0.06436823464037578, 'total_rec_int')
+   - (0.06362653031376969, 'total_pymnt_inv')
+   - (0.053061501841593216, 'last_pymnt_amnt')
+   - (0.05184437542411125, 'total_pymnt')
 6. EasyEnsembleClassifier
 ![](https://user-images.githubusercontent.com/64121596/154625109-87b353c2-1ea3-4cc0-af1c-5f8fb2a21dd6.png)
 - balanced accuracy score: 0.9 
